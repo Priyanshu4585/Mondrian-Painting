@@ -1,1 +1,1 @@
-A web-based project that mimics the style of Piet Mondrian's iconic abstract paintings using modern web technologies—HTML and CSS Grid. This project uses CSS Grid to generate dynamic, customizable grids inspired by Mondrian's geometric style and primary color palette.
+A web-based project that mimics the style of Piet Mondrian's iconic abstract paintings using modern web technologies—HTML and CSS Grid. This project uses CSS Grid to generate dynamic, customizable grids inspired by Mondrian's geometric style and primary color palettes.
